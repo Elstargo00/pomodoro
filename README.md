@@ -5,7 +5,7 @@ Pomodoro is a time management application to increase your productivity.
 For more information: https://todoist.com/productivity-methods/pomodoro-technique
 
 
-<img src="">
+<img src="https://github.com/Elstargo00/pomodoro/blob/main/sample_photo.png?raw=true">
 
 
 This is an modified version of Pomodoro from Angela Yu python course.
